@@ -1,0 +1,14 @@
+github.com/mostafa/mal4md/internal v0.0.0-20221209105213-5f742da1dda9 h1:dK5ujXYMVovMMJFJoJNEdV0CWf0GSBHeM8vc1EG25I8=
+github.com/mostafa/mal4md/internal v0.0.0-20221209105213-5f742da1dda9/go.mod h1:PdWDYGq8XThLs0mps9+mKVKWRq3XzxdvCOymLMzwqsw=
+github.com/mostafa/mal4md/internal v0.0.0-20221209105509-f5f56a3a69de h1:eHM6QLTYMM/qqeUdBW57Gw1dzTr4xCJDoEDxDQiJIqM=
+github.com/mostafa/mal4md/internal v0.0.0-20221209105509-f5f56a3a69de/go.mod h1:PdWDYGq8XThLs0mps9+mKVKWRq3XzxdvCOymLMzwqsw=
+github.com/mostafa/mal4md/net/http v0.0.0-20221209105509-f5f56a3a69de h1:1IZc2jpIYRb4UC3ozQ4CX0aCj55OH4fFeWQmaEu76MI=
+github.com/mostafa/mal4md/net/http v0.0.0-20221209105509-f5f56a3a69de/go.mod h1:I0VYbqNw9AmuNp8wXkWwhtlEvnmlBDi8OiO8t9GT+LI=
+github.com/mostafa/mal4md/net/http/internal v0.0.0-20221209105213-5f742da1dda9 h1:o1i9aLvjpn63c9yBeBe53KV6Vd+MuUAdnG9CZl3azpE=
+github.com/mostafa/mal4md/net/http/internal v0.0.0-20221209105213-5f742da1dda9/go.mod h1:IcMqOxFyGrqQ83E0e+NQnfUAim6JySQA9bXfr/mw5os=
+github.com/mostafa/mal4md/net/http/internal v0.0.0-20221209105509-f5f56a3a69de h1:0HSr2bWhDxkBqmlVx0FxSTCpX390QXyc8RUFwFu35ro=
+github.com/mostafa/mal4md/net/http/internal v0.0.0-20221209105509-f5f56a3a69de/go.mod h1:IcMqOxFyGrqQ83E0e+NQnfUAim6JySQA9bXfr/mw5os=
+golang.org/x/net v0.4.0 h1:Q5QPcMlvfxFTAPV0+07Xz/MpK9NTXu2VDUuy0FeMfaU=
+golang.org/x/net v0.4.0/go.mod h1:MBQ8lrhLObU/6UmLb4fmbmk5OcyYmqtbGd/9yIeKjEE=
+golang.org/x/text v0.5.0 h1:OLmvp0KP+FVG99Ct/qFiL/Fhk4zp4QQnZ7b2U+5piUM=
+golang.org/x/text v0.5.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
